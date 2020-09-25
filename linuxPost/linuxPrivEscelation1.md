@@ -34,7 +34,7 @@ find / -perm /4000 2> /dev/null
 
 
 ###12 bits:
-![](perm bits.png)
+![](https://i.pinimg.com/originals/1d/50/34/1d5034f391350603dcf13fe348872a76.png)
 
 image + excel sheet
 
