@@ -35,12 +35,14 @@ this command will show us more details regarding the permissions, owners
 
 
 ####  To find files that has the setuid set we can use the command:
+'''sh
 find / -perm /4000 2> /dev/null
-
+'''
 
 
 ---
 
+### setguid
 
 
 
