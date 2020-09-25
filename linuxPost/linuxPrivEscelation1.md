@@ -5,6 +5,11 @@
 3. group rwx
 4. others rwx
 
+
+![](https://i.pinimg.com/originals/1d/50/34/1d5034f391350603dcf13fe348872a76.png)
+
+Check attached excel sheet
+
 ### ls -al
 this will show us the 9 least significant bits.
 ### stat fileName
@@ -33,12 +38,11 @@ this command will show us more details regarding the permissions, owners
 find / -perm /4000 2> /dev/null
 
 
-###12 bits:
-![](https://i.pinimg.com/originals/1d/50/34/1d5034f391350603dcf13fe348872a76.png)
-
-image + excel sheet
 
 ---
+
+
+
 
 
 
