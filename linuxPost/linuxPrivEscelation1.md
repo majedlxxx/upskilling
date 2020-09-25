@@ -49,6 +49,7 @@ $ find / -perm /4000 2> /dev/null
 
 ### setguid
 * same as setuid this only works with executable files
+* allows the user who run the file to get owning group permissions
 ```sh
 $ sudo chgrp shadow openShadowFile
 $ chmod 2755
