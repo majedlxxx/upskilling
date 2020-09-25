@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+import os
+
+print("User ID: ",os.getuid())
+
+
+f = open("/etc/shadow")
+data = f.read()
+f.close()
+print(data)
